@@ -13,3 +13,5 @@ We find that,
 
 Preprint: https://arxiv.org/abs/1703.07595
 This release has the face image dataset and visual features and behavioural data that have been extracted from these faces.
+
+Please email harish2006@gmail.com for more details or queries.
