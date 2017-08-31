@@ -1,5 +1,5 @@
 # CNSIFD
-Center for Neuroscience Indian Face Dataset
+Centre for Neuroscience Indian Face Dataset
 
 Faces form the basis for a rich variety of judgments in humans, yet the underlying features remain poorly understood. Fine-grained distinctions within a race might more strongly constrain the possible features, but are relatively less studied. Fine-grained race classification is also interesting because even humans may not be perfectly accurate on these tasks. This offers a unique opportunity to compare errors made by humans and machines, in contrast to standard object detection tasks where human performance is nearly perfect. 
 We have benchmarked North Vs South categorisation on close to 130 humans and machines performance on a novel database of close to 1650 diverse Indian faces labeled for fine-grained race (South vs North India) as well as for age, weight, height and gender. We have explored a diverse set of features including part shape and configuration information, non CNN features such as HOG and LBP as well as various relevant CNNs.
