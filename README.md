@@ -16,4 +16,8 @@ This release has the face image dataset and visual features and behavioural data
 
 Please email harish2006@gmail.com for more details or queries.
 
+CNSIFD face images: 500 x 500 gray scale images with normalised faces in elliptical cropped window. https://drive.google.com/open?id=0Bxtn3jm1AI_dZXBCLVJxSElwdjA
+
+CNSIFD attribute ground truth, behavioural data and computational features https://drive.google.com/open?id=0Bxtn3jm1AI_dRDlJRUs4bWRFZms
+
 All the code, data, images and visual features are made availalble purely for research purposes and should not be used for commercial gain.
