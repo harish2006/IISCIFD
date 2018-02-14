@@ -20,5 +20,6 @@ CNSIFD face images: 500 x 500 gray scale images with normalised faces in ellipti
 
 CNSIFD attribute ground truth, behavioural data and computational features https://drive.google.com/open?id=17biioizywfZPxE6f0MhnMbPYoOQkR-hp
 
+Behavioural data, stimuli and code to generate analysis plots for the face occlusion behavioural experiment 
 
 All the code, data, images and visual features are made availalble purely for research purposes and should not be used for commercial gain.
