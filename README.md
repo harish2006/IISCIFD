@@ -1,4 +1,4 @@
-# IISCIFC
+# IISCIFD
 Centre for Neuroscience Indian Face Dataset
 
 Faces form the basis for a rich variety of judgments in humans, yet the underlying features remain poorly understood. Fine-grained distinctions within a race might more strongly constrain the possible features, but are relatively less studied. Fine-grained race classification is also interesting because even humans may not be perfectly accurate on these tasks. This offers a unique opportunity to compare errors made by humans and machines, in contrast to standard object detection tasks where human performance is nearly perfect. 
