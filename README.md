@@ -16,9 +16,9 @@ This release has the face image dataset and visual features and behavioural data
 
 Please email harish2006@gmail.com for more details or queries.
 
-CNSIFD face images: 500 x 500 gray scale images with normalised faces in elliptical cropped window. https://drive.google.com/open?id=1gql6RtG8C_ioRb4kNXPXV_HOgAipCocG
+CNSIFD face images: 500 x 500 gray scale images with normalised faces in elliptical cropped window. https://drive.google.com/file/d/1NHBi4phVG-EdMieYaht5biKX9Qe-zmEL/view?usp=sharing
 
-CNSIFD attribute ground truth, behavioural data and computational features https://drive.google.com/open?id=17biioizywfZPxE6f0MhnMbPYoOQkR-hp
+CNSIFD attribute ground truth, behavioural data and computational features https://drive.google.com/file/d/1Lx4EVxOMZRfsaPf0SNtntUvnhrGgM4Ad/view?usp=sharing
 
 Behavioural data, stimuli and code to generate analysis plots for the face occlusion behavioural experiment https://drive.google.com/open?id=15EOkDtsq6p-iGybhYvA7Q2d0euJlzSlK
 
