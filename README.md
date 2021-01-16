@@ -11,7 +11,7 @@ We find that,
 
 (3) Using overcomplete banks of features derived from each face part, we found that mouth shape was the single largest contributor towards fine-grained race classification, whereas distances between face parts was the strongest predictor of gender. Our results show that computational models can explain a variety of face attributes and we hope that this study spurs further work on finer-grained classification of faces.
 
-Please cite the following paper for IISCIFD: Harish Katti; S. P. Arun, Are you from North or South India? A hard face-classification task reveals systematic representational differences between humans and machines,Journal of Vision, July 2019, Vol.19, 1. doi:https://doi.org/10.1167/19.7.1 (weblink: https://jov.arvojournals.org/article.aspx?articleid=2737707)
+Please cite the following paper for IISCIFD: **Harish Katti; S. P. Arun, Are you from North or South India? A hard face-classification task reveals systematic representational differences between humans and machines,Journal of Vision, July 2019, Vol.19, 1.** doi:https://doi.org/10.1167/19.7.1 (weblink: https://jov.arvojournals.org/article.aspx?articleid=2737707)
 
 Links for the face image dataset and visual features and behavioural data that have been extracted from these faces.
 
