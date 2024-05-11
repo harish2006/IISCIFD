@@ -26,4 +26,6 @@ CNSIFD attribute ground truth, behavioural data and computational features https
 Behavioural data, stimuli and code to generate analysis plots for the face occlusion behavioural experiment https://drive.google.com/file/d/17ri_Gq_CqTiLYnQqz5tojPf7NmiacA-4/view?usp=drive_link  
 Please note that only faces 1:459 can be used for illustrations in publications. The rest have been obtained from the public domain and might be copyrighted.
 
+A subset of 251 face images in color that can be used for publication https://drive.google.com/file/d/1NHBi4phVG-EdMieYaht5biKX9Qe-zmEL/view?usp=sharing 
+
 All the code, data, images and visual features are made availalble purely for research purposes and should not be used for commercial gain.
